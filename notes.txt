@@ -1,0 +1,7 @@
+
+tf.data Slides
+    - https://docs.google.com/presentation/d/16kHNtQslt-yuJ3w8GIx-eEH6t_AvFeQOchqGRFpAD7U/edit#slide=id.g254d08e080_0_328
+
+Examples Scripts for Using TF with other Libraries
+    - https://github.com/tensorflow/ecosystem
+

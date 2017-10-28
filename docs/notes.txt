@@ -5,3 +5,5 @@ tf.data Slides
 Examples Scripts for Using TF with other Libraries
     - https://github.com/tensorflow/ecosystem
 
+Blog Post Introduction to High Level APIs
+    - https://medium.com/onfido-tech/higher-level-apis-in-tensorflow-67bfb602e6c0
